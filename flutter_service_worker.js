@@ -3,19 +3,38 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "6d85168016f4814f4228f583538a0b19",
-"index.html": "0b13b332d15afc6e8e298fed963d81da",
-"/": "0b13b332d15afc6e8e298fed963d81da",
-"main.dart.js": "ef7a61f34d9e302a1144337522c1e6a7",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+  "version.json": "2b38c0e041fed8863fed7f748220820d",
+"favicon.ico": "4733b9e631d9df9e1382d1c570aa3845",
+"index.html": "8b30e02a723a067b0f73a3f3b011b02e",
+"/": "8b30e02a723a067b0f73a3f3b011b02e",
+"main.dart.js": "bf0c6a7abe0ba520733f1ee878ef71a8",
+"icons/favicon.ico": "4733b9e631d9df9e1382d1c570aa3845",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "d609a914638855f6a3ed19e3efb7b6c2",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "bde9ee889e7cdb2c908965b81d635c52",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"manifest.json": "d69f0b0758317f9a57b621eafaf1ed8f",
+"zzzz.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/AssetManifest.json": "0876ff93e17b15b94563074bd5e54cf3",
+"assets/NOTICES": "02642432ac55dbe6842d83317deadcad",
+"assets/FontManifest.json": "efcac2f7f16f7cf2bdabb6e5c21d6af3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1"
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/assets/images/ic_facebook.svg": "4b99c5e413b52fb713e2b0c9b3bbc6ba",
+"assets/assets/images/ic_skype.svg": "57f8ccee67221798ab6ac6ea8bdb8bce",
+"assets/assets/images/ic_whatsapp.svg": "50d05a5709e3ca165abf6229303236ac",
+"assets/assets/images/tt.jpg": "87090645f66b5101c8d7264e3ce83b86",
+"assets/assets/images/tt3.jpg": "1c674b4899fe18537b69b2725b1d699b",
+"assets/assets/images/tt2.jpg": "20a8cf3e27d3c2866af805bf8c2c80b2",
+"assets/assets/images/tt1.jpg": "47e6c830772c0a3bc2e86c5598d3e3a5",
+"assets/assets/images/tt5.jpg": "1b6869ad9bd85619d376964725071ce2",
+"assets/assets/images/tt4.jpg": "1ee0bc0ccad5bfdb95ef21615f47c632",
+"assets/assets/images/tt6.jpg": "3459a45a6f15872b4e1d9fe70d892359",
+"assets/assets/images/tt7.jpg": "b79a328d80631e7b2a6aa066bb314c6d",
+"assets/assets/images/tt8.jpg": "33ea493f56e82d825204446621a0a0c0",
+"assets/assets/images/thanhtung.jpeg": "9a85624006d8987cefba77ddfd5ea901",
+"assets/assets/images/bg.jpg": "009aa16e0bf83eb47b6ff3929b0f556a",
+"assets/assets/images/ic_instagram.svg": "5c244e2f610c50f8e7b439d41d58c2c7",
+"assets/assets/fonts/Lobster-Regular.ttf": "9406d0ab606cf8cb91c41b65556bd836",
+"assets/assets/fonts/Balqis.ttf": "188d1fa8197b9332b368f98b00285a05"
 };
 
 // The application shell files that are downloaded before a service worker can
