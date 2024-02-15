@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.taperk.instant.app.taperk",
+                 "sha256_cert_fingerprints": ["A6:7B:E5:74:06:DF:14:D7:22:22:37:13:D7:D0:71:3A:21:C6:1D:E5:1D:B3:0A:7F:90:AF:AA:99:AB:52:3D:79"] }
+  }]
